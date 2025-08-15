@@ -1,6 +1,6 @@
 # DuLPA: Dual-Level Prototype Alignment for Unsupervised Domain Adaptation in Activity Recognition from Wearables
 
-![DuLPA](figs/main_fig1.png "Model Architecture")
+![DuLPA](figs/main_arch1.png "Model Architecture")
 
 This is the official Pytorch-Lightning implementation of CIKM-2025 submitted paper.
 
