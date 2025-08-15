@@ -12,7 +12,7 @@ class StepwiseLR:
     A lr_scheduler that update learning rate using the following schedule:
 
     .. math::
-        \text{lr} = \text{init_lr} \times \text{lr_mult} \times (1+\gamma i)^{-p},
+        text{lr} = text{init_lr} times text{lr_mult} times (1+\gamma i)^{-p},
 
     where `i` is the iteration steps.
 
