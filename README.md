@@ -1,3 +1,5 @@
+
+This is the implementation of NuerIPS Time Series for Health (TS4H) workshop paper titled:
 # DuLPA: Dual-Level Prototype Alignment for Unsupervised Domain Adaptation in Activity Recognition from Wearables
 
 ![DuLPA](figs/main_fig1.png "Model Architecture")
